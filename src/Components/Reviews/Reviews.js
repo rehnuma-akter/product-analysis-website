@@ -1,9 +1,13 @@
-import React from 'react';
+import React from "react";
+import Review from "../Review/Review";
 
 const Reviews = () => {
     return (
         <div>
-            <h2>i am reviews</h2>
+        <h1 className="text-center  text-4xl pt-14">
+            Customer Reviews
+        </h1>
+        <Review></Review>
         </div>
     );
 };

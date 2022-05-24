@@ -1,0 +1,51 @@
+[
+    {
+        "id": "628d3efc926d4ef195284e30",
+        "rating": 3,
+        "star": "⭐⭐⭐",
+        "name": "Bailey Stanley",
+        "review": "I love Polaroids and I have a Polaroid camera collection from the 50s. Amazing experience."
+    },
+    {
+        "id": "628d3efc418ec29e7b0b3114",
+        "rating": 4,
+        "name": "Vanessa Franks",
+        "star": "⭐⭐⭐⭐",
+        "review": "Hollywood has gone from Pola to Polaroid. I just Love it"
+    },
+    {
+        "id": "628d3efcec7b88a7b904c840",
+        "rating": 3,
+        "name": "Francis Keller",
+        "star": "⭐⭐⭐",
+        "review": "The first thing I do is take Polaroids of the sitter 10 or 12 color Polaroids and eight or 10 black-and whites."
+    },
+    {
+        "id": "628d3efc7a11b777d16efe16",
+        "rating": 4,
+        "name": "Nielsen Mathis",
+        "star": "⭐⭐⭐⭐",
+        "review":"The first Polaroid ever took of someone in my family was my son when he was about four years old.In one word, marvelous."
+    },
+    {
+        "id": "628d3efc88a2986ac6e952ae",
+        "rating": 5,
+        "name": "Gabrielle Doyle",
+        "star": "⭐⭐⭐⭐⭐",
+        "review":"Outstandingly great experience."
+    },
+    {
+        "id": "628d3efc0b7221c7ab9a4be6",
+        "rating": 4,
+        "name": "Emilia Estes",
+        "star": "⭐⭐⭐⭐",
+        "review":"I love my polaroid camera, using it for 5 years now."
+    },
+    {
+        "id": "628d3efc6039582d8c105a61",
+        "rating": 4,
+        "name": "Sonya Vincent",
+        "star": "⭐⭐⭐⭐",
+        "review": "Excellent product"
+    }
+]
